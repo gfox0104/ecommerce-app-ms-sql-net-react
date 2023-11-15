@@ -116,9 +116,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <!-- CONTACT -->
 ## Contact
 
-Email: marianguyenle17@gmail.com
-
-[![Linkedin Badge](https://img.shields.io/badge/-Maria-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-nguyen-le/)](https://www.linkedin.com/in/maria-nguyen-le/)
+Email: honest.dev0104@gmail.com
 
 <p align="right">(<a href="#sneaker-ecommerce">back to top</a>)</p>
   
